@@ -1,0 +1,20 @@
+.header {
+    display: grid;
+    grid-area: h;
+    border: 2px solid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.header img {
+    width: 100px;
+}
+
+.login{
+    justify-self: end;
+    padding: 10px;
+}
+
+.login a{
+    color: black;
+}

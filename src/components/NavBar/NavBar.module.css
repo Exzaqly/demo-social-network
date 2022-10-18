@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    border: 2px solid;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.item {
+    text-decoration: none;
+    color: black;
+}
+
+.active{
+    text-decoration: none;
+    color: gold;
+}
+
+.friends {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+}

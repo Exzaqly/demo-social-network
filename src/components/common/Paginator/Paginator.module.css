@@ -1,0 +1,14 @@
+
+.item{
+    border: 1px solid;
+    padding: 2px;
+    margin-right: 3px;
+}
+
+
+.selectedPage{
+    border: 1px solid;
+    padding: 2px;
+    font-weight: 800;
+    margin-right: 3px;
+}
