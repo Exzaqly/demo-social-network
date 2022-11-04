@@ -15,8 +15,9 @@
 .app-wrapper__content {
     padding: 10px;
     grid-area: c;
-    background-color: lightblue;
-    border: 2px solid
+    background-color: black;
+    border: 2px solid;
+    color: white;
 }
 
 
